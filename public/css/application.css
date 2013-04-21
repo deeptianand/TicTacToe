@@ -1,0 +1,31 @@
+.container {
+  margin: 20px auto;
+  width: 600px;
+  padding: 0px 20px 20px 20px;
+  border: 1px dotted black;
+}
+th {
+  text-align: left;
+}
+
+#gametable{
+    margin: 0 0 0 200px;
+    border:1px solid black;
+}
+
+.row {
+	border:1px solid black;
+}
+
+#gametable tr{
+    border:1px solid black;      
+}
+
+#gametable td{
+    padding:100px;
+    border:1px solid black;
+}
+
+h1{
+  padding-left:400px;
+}
